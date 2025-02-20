@@ -6,12 +6,13 @@ HTML – for structuring the content
 SCSS – for styling and maintaining modular, scalable CSS
 
 **Live Preview**
-[Insert the link to the deployed website]
+https://pasha1932.github.io/layout_landing-page/
 
 **Mockup**
-[Insert the link to the design mockup]
+https://www.figma.com/file/DtkQmQ797hk0nI4KfMi2Uq/BOSE-New-Version?type=design&node-id=6802-139&t=L7eKz5YKLN0m5WxR-0
 
 **How to Launch the Project**
 Clone the repository:
 - git clone [repository-url]
-- Open the index.html file in a browser or use a local server to preview the project.
+- npm i
+- npm run start
